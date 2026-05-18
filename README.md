@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   ∇²ψ + k²ψ = 0   ·   Σ(data) → wisdom   ·   f(x) = Δ     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-# Radi Melo Martins
+# Dr. Radi Melo Martins
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=PhD+%C2%B7+Mathematician+%C2%B7+Computer+Engineer;Researcher+%C2%B7+Higher+Education+Specialist;Where+equations+meet+algorithms...;...and+data+becomes+decisions.)](https://git.io/typing-svg)
 
@@ -24,21 +18,6 @@
 Researcher and specialist with academic background spanning **Mathematical and Computational Modeling**, **Theoretical Astrophysics**, **Computer Engineering** and **Mathematics**.
 
 Currently working at the **Universidade Federal do Tocantins (UFT)** as a Higher Education Specialist, and in public education as a Mathematics Teacher. My research focuses on the development and application of computational methods, AI-based models and data governance frameworks to support evidence-based decision-making in higher education institutions.
-
-```python
-radi = {
-    "name":        "Radi Melo Martins",
-    "roles":       ["Higher Education Specialist @ UFT",
-                    "Mathematics Teacher",
-                    "Researcher"],
-    "education":   ["PhD · Mathematical & Computational Modeling",
-                    "MSc · Theoretical Astrophysics & Computational Physics",
-                    "B.Eng · Computer Engineering",
-                    "B.Sc  · Mathematics"],
-    "mission":     "Transforming institutional data into strategic intelligence",
-    "currently":   "Building academic analytics ecosystems 🔭"
-}
-```
 
 ---
 
@@ -104,15 +83,12 @@ Systems
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI / Data Science**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Tools & Infrastructure**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
